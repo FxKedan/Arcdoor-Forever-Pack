@@ -1,0 +1,13 @@
+name = "EnhancedVisuals"
+filename = "EnhancedVisuals_NEOFORGE_v1.8.27_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/A50PgT2f/EnhancedVisuals_NEOFORGE_v1.8.27_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "5d40e8b3b832192b1abe102665e4ebe278519574e99243558a6a61ae89453bf79ddb053a7626d5e3dff68973a7124e8702d5c9b28ba1f2a5cefadd987bd93a9b"
+
+[update]
+[update.modrinth]
+mod-id = "KjL0jE2w"
+version = "A50PgT2f"

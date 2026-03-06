@@ -1,0 +1,13 @@
+name = "Arcdoor Forever Pack"
+author = "Kedan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a2ab203d929eb5d8cb553c41630617fd676161ffd435dfd061dbd204e8e4a43"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
