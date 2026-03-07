@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a67911b39e16465279f34138e3aa1127ebe30e28d73f0d09656f7e2122d399b6"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
