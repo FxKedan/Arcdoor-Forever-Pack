@@ -470,11 +470,6 @@ hash = "d9974ce7736002c8a696af3c754fbc2702ba8751dcb2eed6d6ca8a824ec2f7eb"
 metafile = true
 
 [[files]]
-file = "mods/enhancedvisuals.pw.toml"
-hash = "10a8cc237456dc5ca699916bc9f4d10b6be59840888f54734eca13b9128a62bc"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "68e0010a541dfab4ada1786114b5ac4cbd5b083519663757fcdad0a0fe186aab"
 metafile = true
