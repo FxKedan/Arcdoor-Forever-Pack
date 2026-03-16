@@ -1055,6 +1055,31 @@ hash = "074f150a27143e6926d13cf19a89b38376474b13d93d607c6a29afe398a750e8"
 metafile = true
 
 [[files]]
+file = "mods/purpurpacks-re-dye-concrete-powder.pw.toml"
+hash = "17208877d67e84e059baa34d6df73522ef36ffadec9b45c5267da4f43521ed34"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-concrete.pw.toml"
+hash = "298f8b8fceecac37be21c7a9de23ad70c889beae72b2eb11fc4c7c36ce18c5e0"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-glass.pw.toml"
+hash = "815c632bbb9e004dd90e6c29195f4a97fdbd79aa74aaa02a2d72f28a90f3f91c"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-glazed-terracotta.pw.toml"
+hash = "80d380af94f36b46e2d49ae4b7e345ace4dfeb5cda802f6904b21a1c2716b728"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
+hash = "0f25c7e3f6200951dc08fb0740b38219b5e3f48147c635cca3ab1386d223ed4d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
