@@ -1,13 +1,13 @@
 name = "ExtraSounds Next"
-filename = "ExtraSoundsNext-neoforge-1.21.1-1.4.jar"
+filename = "extrasounds-1.5.4+1.21.1-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/tX3GsOVb/ExtraSoundsNext-neoforge-1.21.1-1.4.jar"
+url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/61VTwiK1/extrasounds-1.5.4%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "59aac1c9d442cfbc8d92d1201d687d046af783d6e07b86e9845fa3379acd2ea15845701e3ee940f49bb7760c0342b01e6821adc0d08f6cf3311943aefc10f841"
+hash = "065d0f4ac0a6a5b8aafb26b34acdacb51bd286c12c02f8d47cad6c14768ad7de61de69f17f2162a31366162805aaee7f8e7744f6be09e27498e650e0a6e136bd"
 
 [update]
 [update.modrinth]
 mod-id = "jv7tzVE4"
-version = "tX3GsOVb"
+version = "61VTwiK1"

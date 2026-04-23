@@ -1,13 +1,13 @@
 name = "XaeroPlus"
-filename = "XaeroPlus-2.30.9+neoforge-1.21.1-WM1.40.11-MM25.3.10.jar"
+filename = "XaeroPlus-2.31.1+neoforge-1.21.1-WM1.40.11-MM25.3.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/5Xq3DF2c/XaeroPlus-2.30.9%2Bneoforge-1.21.1-WM1.40.11-MM25.3.10.jar"
+url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/6p200D3Z/XaeroPlus-2.31.1%2Bneoforge-1.21.1-WM1.40.11-MM25.3.10.jar"
 hash-format = "sha512"
-hash = "f93c8a2834fb75810d997d5a57ffd4de31faf67e23a4afd1073e87409cd4c8f3e815003e95a1ca9ae103d5b3333fa0f3f856bcb5414df52eb6af13c122d93e0c"
+hash = "d3c4dd1d444c4ffcb9a64832653f335fd0918a719d8d016e10cc1a4cf17d4a3d4e908faa16a58d4b5451b3c20392deb99fe2e7b4daf0e9fcdda0105792071f77"
 
 [update]
 [update.modrinth]
 mod-id = "EnPUzSTg"
-version = "5Xq3DF2c"
+version = "6p200D3Z"
