@@ -1285,6 +1285,16 @@ hash = "5645684eee7aac1a3fde21dd74ece11ea589b859a365d704a33eed3b0ef055b6"
 metafile = true
 
 [[files]]
+file = "mods/tiny-gates.pw.toml"
+hash = "0b168532e5fecd6c2ed22d6ebc4b4f4a526cc92cd9ad504dfd0fabdb4ad83848"
+metafile = true
+
+[[files]]
+file = "mods/tiny-redstone.pw.toml"
+hash = "d18706b3245a6f3f24db5382dc8a95d4c76e8e2ecf9266bd00d132c7a638fc02"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "bd655a806614985f8ad7a36ccde31ca70426fc207d4d4b046dd6a377e8814f18"
 metafile = true
