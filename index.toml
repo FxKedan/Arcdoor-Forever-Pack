@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "45319301cd9d195e7b6d9e5cb295a88bede26266133a4dd8e51611353cacb1e8"
+hash = "c12875918a95f25b548666e43e6b98b33087db787beabfd8de2a56d0e1eda4e8"
 metafile = true
 
 [[files]]
@@ -82,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "eea1d019c403a9e04aac19fdc48448febe51b79668b249ab2c1efef6033b7371"
 metafile = true
 
 [[files]]
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
@@ -250,6 +255,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats-aeronautics-weight.pw.toml"
+hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -277,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "611455ca9d3d1d7e56bdaf76c17306ab0344847869525ec1e1b9c13198dd4303"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "0c79e3caa8d94a77f96540b045ffaad071ef3ad1593bccf6adebbc01df5d08e8"
 metafile = true
 
 [[files]]
@@ -346,7 +361,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "c4103785556fcfb51a047f038be68dd742fa15e76daff6f0f3277893a9606e97"
 metafile = true
 
 [[files]]
@@ -391,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
+hash = "6cd0689dfe07e9fbe27a62e74a92929987fe64dd838f1680db070a7e933f204a"
 metafile = true
 
 [[files]]
@@ -426,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
@@ -516,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3e12e291f59845d26d24f57f81ee16b56afb486ae532ec3f00f5deda6a93dc6f"
+hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
 metafile = true
 
 [[files]]
@@ -811,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f4778cef252c7032b8d42ddf79c9e671ddcca0a5878a46607346c30fef21c8e2"
+hash = "89ffd1297ebc4b0ac4773a5b9483f765c5cfe3fa034767da61129820c47de965"
 metafile = true
 
 [[files]]
@@ -961,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "0abbf2fb45f878eaf183b65a31e5f303d9f7bd587bcba91639493cfd096b764b"
+hash = "dff2c62c874d7bf7f3e9542c50f7c275a4b5921e2c5dd27813fc10e65d3ce811"
 metafile = true
 
 [[files]]
@@ -991,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "8a6acb4aae4cd574cc623fd3251b57f569de45b9e757f0d8c10e1274db888d86"
+hash = "464882c38aa9b0dbcc65e345c4aee6db2f6fa71ecbfc84aaa652021c73408b99"
 metafile = true
 
 [[files]]
@@ -1006,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "9263405332ca3b5da9de2f7e05b53c2544b8fcb5345e0d80b05f8b87f07d6b29"
+hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
@@ -1115,6 +1135,11 @@ hash = "791197016ff46b2422974238b0a1fe6eb3f0cdd9ad52a21b6fa59e5d1bdfc671"
 metafile = true
 
 [[files]]
+file = "mods/sable-physics-compat.pw.toml"
+hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
@@ -1206,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
+hash = "23c31613960c38bc67da32c6dcd7e611d6a61bff225739ae87ccdaa7ef6fa1c1"
 metafile = true
 
 [[files]]
@@ -1310,6 +1335,16 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "e6984ff406125d06bd2b27acbc7c9ed3f524e2110649963461fa5a18ea39ac96"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
@@ -1322,6 +1357,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
+metafile = true
+
+[[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "f04776d974d52dfdd6e24d3326dc1e2bacabcabd7f4316fe55e99123029db563"
 metafile = true
 
 [[files]]
