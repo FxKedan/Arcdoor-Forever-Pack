@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
+hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4471a72e75f8440bb676379553e053dfda5a9ac81af80bb58aff0505b9276df8"
+hash = "3f7cef7e3aaadd163f8505cdc372e6f1957b59937d2b96a4cdf38473bce20f47"
 metafile = true
 
 [[files]]
