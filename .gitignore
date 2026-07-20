@@ -5,5 +5,5 @@
 *.mrpack
 
 # Exclude packwiz exe
-packwiz.exe
-packwiz
+# packwiz.exe
+# packwiz
