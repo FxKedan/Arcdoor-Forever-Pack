@@ -1230,11 +1230,6 @@ hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "ac48b7bbd2382eedee5a3c61f88c1418d297b3fb903fbe9ac483dda0fbbfd433"
 metafile = true
