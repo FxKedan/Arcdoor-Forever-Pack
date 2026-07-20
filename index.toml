@@ -85,6 +85,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "d96e1e5aa63a1a6023578fc3d8f4de1239da8bd105769c43ed2798082ff0acf3"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "dc4fba2ed89550843d0ce2a6cd1b13986ff2bf596b9f5b828ef55ebb538bab10"
 metafile = true
@@ -771,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
+hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
 metafile = true
 
 [[files]]
