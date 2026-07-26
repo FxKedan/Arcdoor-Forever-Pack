@@ -315,6 +315,11 @@ hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-(sable)-mass-view.pw.toml"
+hash = "1e49251a57f6363ec88f7e04df5b001b658c9435f5bf5b2ed3b3bbb4693bb3ab"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
 metafile = true
