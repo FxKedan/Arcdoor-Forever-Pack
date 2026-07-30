@@ -45,6 +45,11 @@ hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-wind-sound.pw.toml"
+hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
+file = "mods/analog-audio.pw.toml"
+hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
 metafile = true
 
 [[files]]
@@ -405,6 +415,11 @@ hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
 metafile = true
 
 [[files]]
+file = "mods/create-compact_transmission.pw.toml"
+hash = "e039ec0d1711ec6d177ad42829aa0eacd305de441b4c59c03006be3087845882"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
@@ -432,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor-aeronautics-compat.pw.toml"
+hash = "bb87ade29771a792bb8abe3247f8f0cc013fa566a7285427d07a008fa1a29f60"
 metafile = true
 
 [[files]]
@@ -950,6 +970,11 @@ hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
+hash = "ad2ac70558393abece2cd089b3269a30596910fba5d220438cac17256f97ec14"
+metafile = true
+
+[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
 metafile = true
@@ -1160,6 +1185,11 @@ hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
+file = "mods/pf-neoforge.pw.toml"
+hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
@@ -1182,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "f80d4b726ade888e68b0b925fcbbcdc8b2878f5bb4a24e8703ef331b0a729c12"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-x-sable.pw.toml"
+hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
 metafile = true
 
 [[files]]
@@ -1337,6 +1372,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]
