@@ -1,0 +1,13 @@
+name = "Frequency Create"
+filename = "frequency-1.21.1-neoforge-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgoFrYci/versions/kgyQ1pbG/frequency-1.21.1-neoforge-0.2.0.jar"
+hash-format = "sha512"
+hash = "34e0e198e22e85fc19d6e3cd4126e82a904497e7376b4bbaacbcbedca98cbcc7dd3d6adfe772fe0b49fb1b1b2e1fa092094fbd20e1571b8ce642efe50b6781f6"
+
+[update]
+[update.modrinth]
+mod-id = "RgoFrYci"
+version = "kgyQ1pbG"

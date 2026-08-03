@@ -325,6 +325,11 @@ hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
 metafile = true
 
 [[files]]
+file = "mods/create-additions-sable-compat.pw.toml"
+hash = "db7aed530208f0aedf516a6b616b9034941059354e93f75e5e8e1d57381f3312"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-(sable)-mass-view.pw.toml"
 hash = "1e49251a57f6363ec88f7e04df5b001b658c9435f5bf5b2ed3b3bbb4693bb3ab"
 metafile = true
@@ -512,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
+metafile = true
+
+[[files]]
+file = "mods/create-redstone-link-gui.pw.toml"
+hash = "ad1f77e1c24b2b07474122e1f14113531cf8fe63b16668e1dbe237920cbf099c"
 metafile = true
 
 [[files]]
@@ -787,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "b3e2786cd6d151651aa8ddc6548bc8e8bb7f67a10884f9570608ea11fc1197f6"
+metafile = true
+
+[[files]]
+file = "mods/frequency-create.pw.toml"
+hash = "d9a73afc610ac339ee2d413479c1c6f80962fb29cdc75c248f85ec29fd7efdde"
 metafile = true
 
 [[files]]
@@ -1327,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/sable-physics-compat.pw.toml"
 hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
+metafile = true
+
+[[files]]
+file = "mods/sable-x-xaero-bridge.pw.toml"
+hash = "46a5135d51e3974f4949844f3764581632dfb2ed0d2efaf0ca496a05723864d8"
 metafile = true
 
 [[files]]
